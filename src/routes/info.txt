@@ -1,0 +1,6 @@
+Aqui em Routes virá todas as rotas da aplicação
+
+Para usarmos rotas, precisamos instalar o react-router-dom
+npm i react-router-dom
+
+Com ele, vamos utilizar o Routes e Routes para criamos nossas rotas
